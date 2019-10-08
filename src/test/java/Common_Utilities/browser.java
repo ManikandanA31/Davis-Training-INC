@@ -12,7 +12,7 @@ public class browser {
 
 	public static void main(String[] args) {
 
-		// Initialize Scanner to get input in runtime 
+		////// Initialize Scanner to get input in runtime 
 		Scanner scan = new Scanner(System.in);
 
 		// Initialize WebDriver and open Browser Location
